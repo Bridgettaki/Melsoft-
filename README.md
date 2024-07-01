@@ -1,2 +1,2 @@
 # Melsoft-
-Building a website referenincing from a webiste provided for you.
+Building a website referencing from a webiste provided for you.
